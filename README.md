@@ -2,7 +2,7 @@
 
 with
 
-- Java 11
+- Java 17
 - JUnit 5
 - Maven JAR plugin
 - VSCode test settings

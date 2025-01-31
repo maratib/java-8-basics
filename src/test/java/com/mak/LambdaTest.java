@@ -20,7 +20,7 @@ interface HelloLambda {
 }
 
 
-public class Lambda {
+public class LambdaTest {
 
     @Test
     void testLambda() {
